@@ -10,7 +10,7 @@ Use it for setting up a take-home interview assignment or a portfolio project.
 
 ## Tech Stack
 
-- Java 17
+- Java 21
 - Spring Boot
 - Spring WebFlux
 - SQLite
